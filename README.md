@@ -71,9 +71,6 @@ This repository is proof that every big journey starts with small, honest projec
 
 ### 📬 Connect With Me
 
-- **Portfolio** → [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app)
-- **GitHub** → [@asaddevx](https://github.com/asaddevx)
----
 <div align="center">
   <p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
   <p>Let's build something disruptive. 🚀</p>
