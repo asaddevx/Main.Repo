@@ -73,7 +73,30 @@ This repository is proof that every big journey starts with small, honest projec
 
 - **Portfolio** → [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app)
 - **GitHub** → [@asaddevx](https://github.com/asaddevx)
+---
+<div align="center">
+  <p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
+  <p>Let's build something disruptive. 🚀</p>
 
+  <a href="https://asad-lime-six.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-282c34?style=for-the-badge&logo=vercel&logoColor=61AFEF" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/asadullah-%F0%9F%99%82-5475a4352">
+    <img src="https://img.shields.io/badge/LINKEDIN-282c34?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:asadullah.devop@gmail.com">
+    <img src="https://img.shields.io/badge/SEND_EMAIL-282c34?style=for-the-badge&logo=gmail&logoColor=E06C75" alt="Email" />
+  </a>
+</div>
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
+</p>
 ---
 
 **Made with passion & purpose**  
