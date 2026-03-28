@@ -69,6 +69,13 @@ This repository is proof that every big journey starts with small, honest projec
 
 ---
 
+
+**Made with passion & purpose**  
+**Asadullah** — *Multi-Software Architect in the making*
+
+
+---
+
 ### 📬 Connect With Me
 
 <div align="center">
@@ -96,7 +103,3 @@ This repository is proof that every big journey starts with small, honest projec
 </p>
 ---
 
-**Made with passion & purpose**  
-**Asadullah** — *Multi-Software Architect in the making*
-
----
