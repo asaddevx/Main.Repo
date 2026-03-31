@@ -8,7 +8,7 @@ It is not just a collection of code — it is the **living archive** of my very 
 
 ---
 
-### 🧬 About Main.Repo
+### 🧬 About This Repo
 
 This is my **starting point** — the place where I began experimenting, learning, and building from scratch.  
 
