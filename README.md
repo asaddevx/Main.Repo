@@ -45,9 +45,9 @@ These are the projects that mark the beginning of my path:
 
 While **Main.Repo** holds my beginning, my advanced and production-level work lives in dedicated repositories:
 
-- **[flutter-](https://github.com/asaddevx/flutter-)** → Advanced Flutter architecture & production mobile apps
-- **[react-native](https://github.com/asaddevx/react-native)** → TypeScript-based React Native solutions
-- **[mern-stack](https://github.com/asaddevx/mern-stack)** → Secure, scalable full-stack web applications
+- **[flutter-](https://github.com/asaddevx/flutter-)** → Advanced Flutter architecture & production mobile apps.
+- **[react-native](https://github.com/asaddevx/react-native)** → TypeScript-based React Native solutions.
+- **[mern-stack](https://github.com/asaddevx/mern-stack)** → Secure, scalable full-stack web applications.
 
 ---
 
