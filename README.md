@@ -70,6 +70,10 @@ This repository is proof that every big journey starts with small, honest projec
 ---
 
 ## ✨ Key Highlights
+- **The Origin of My Journey** — First commit and foundational projects that started everything
+- **Multi-Technology Exploration** — Early experiments across Flutter, React Native, MERN, Python, Flask, C#, and PHP
+- **From Basics to Production** — Evolution from simple calculators and to-do apps to full-stack and AI-powered systems
+- **Clean Learning Path** — Documented growth in architecture, state management, and real-world problem solving
 
 
 ---
