@@ -77,6 +77,10 @@ This repository is proof that every big journey starts with small, honest projec
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=Main.Repo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=10" alt="Top Languages in Main.Repo" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  
 
 ---
 
