@@ -69,6 +69,10 @@ This repository is proof that every big journey starts with small, honest projec
 ---
 
 ## 📊 Repository Analytics
+<p align="center">
+  <!-- Repository Stats Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=Main.Repo&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Main.Repo Stats" />
+</p>
 
 
 ---
