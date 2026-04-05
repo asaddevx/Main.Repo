@@ -72,8 +72,7 @@ This repository is proof that every big journey starts with small, honest projec
 <p align="center">
   <!-- Repository Stats Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=Main.Repo&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Main.Repo Stats" />
-</p>
-<p align="center">
+
   <!-- Top Languages in this Repository -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=Main.Repo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=10" alt="Top Languages in Main.Repo" />
 </p>
