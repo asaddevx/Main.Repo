@@ -66,6 +66,10 @@ My ultimate goal is to become a **Multi-Software Architect** — someone who can
 This repository is proof that every big journey starts with small, honest projects.
 
 **This is where it all began.**
+---
+
+## 📊 Repository Analytics
+
 
 ---
 
