@@ -47,6 +47,9 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 - **What I Built:** **Inventory Management System** — C# for desktop + PHP for web. My first multi-platform lesson.
 - **Lesson Learned:** Never assume one platform is enough. Build for extensibility.
 
+### 🤖 First AI Fear (AI PDF Reader)
+- **Problem:** AI felt like rocket science. I didn't know where to start
+
 ---
 
 ### 📂 Foundational Projects in This Repository
