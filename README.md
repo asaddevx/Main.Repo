@@ -59,6 +59,15 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 
 ---
 
+### 💡 The Unseen Problems (That These Projects Solved For **Me**)
+
+| Problem I Had as a Developer | How This Repository Solved It |
+|:----------------------------|:------------------------------|
+| **No portfolio** | Every project here is a live artifact I can show to employers. |
+| **Fear of new tech** | I tried Flutter, RN, MERN, Python, C#, PHP — and realized I *can* learn anything. |
+
+---
+
 ### 📂 Foundational Projects in This Repository
 
 These are the projects that mark the beginning of my path:
