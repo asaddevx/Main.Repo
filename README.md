@@ -52,6 +52,9 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 - **What I Built:** **AI Tool (PDF Reader)** — My first AI-powered project. It reads PDFs and answers questions using basic NLP.
 - **Lesson Learned:** AI is just math + APIs. Start small, then scale.
 
+### 🎨 The "Empty Screen" Problem (All Projects)
+- **Problem:** My early apps worked but looked ugly. Users complained.
+
 ---
 
 ### 📂 Foundational Projects in This Repository
