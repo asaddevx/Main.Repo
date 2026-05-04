@@ -42,6 +42,9 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 - **What I Built:** **Smart Budget Analyzer** — A Firebase-powered React Native app that tracks income/expenses with live charts.
 - **Lesson Learned:** Backend as a Service (Firebase) lets you focus on the UI. Real-time updates change everything.
 
+### 🖥️ Desktop vs. Web Confusion (Inventory Management System)
+- **Problem:** I built a C# desktop app for inventory, but the client wanted web access. I had to learn PHP overnight.
+
 ---
 
 ### 📂 Foundational Projects in This Repository
