@@ -40,6 +40,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 ### 💰 Financial Confusion (Smart Budget Analyzer)
 - **Problem:** My expenses were scattered across bank apps, cash, and memory. I had no budget.
 - **What I Built:** **Smart Budget Analyzer** — A Firebase-powered React Native app that tracks income/expenses with live charts.
+- **Lesson Learned:** Backend as a Service (Firebase) lets you focus on the UI. Real-time updates change everything.
 
 ---
 
