@@ -32,6 +32,9 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 - **What I Built:** **Task Manager (Flutter)** & **To-Do App (React Native)** — My first experiments with local storage (SQLite, AsyncStorage) and CRUD operations.
 - **Lesson Learned:** State management is everything. A to-do list taught me what `setState` really does.
 
+### 🌐 The "API Mystery" (Weather & News Apps)
+- **Problem:** I didn't understand how apps got live data. APIs felt like magic.
+
 ---
 
 ### 📂 Foundational Projects in This Repository
