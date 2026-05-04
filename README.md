@@ -65,7 +65,8 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 |:----------------------------|:------------------------------|
 | **No portfolio** | Every project here is a live artifact I can show to employers. |
 | **Fear of new tech** | I tried Flutter, RN, MERN, Python, C#, PHP — and realized I *can* learn anything. |
-
+| **No documentation habit** | Writing these READMEs taught me to document my work professionally. |
+| **Imposter syndrome** | Seeing my own growth from simple calculators to AI tools kills the doubt. |
 ---
 
 ### 📂 Foundational Projects in This Repository
