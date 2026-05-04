@@ -29,6 +29,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 
 ### 📱 My First "Real" App (Task Manager & To-Do Apps)
 - **Problem:** I kept forgetting assignments and deadlines. Paper lists and notes apps felt chaotic.
+- **What I Built:** **Task Manager (Flutter)** & **To-Do App (React Native)** — My first experiments with local storage (SQLite, AsyncStorage) and CRUD operations.
 
 ---
 
