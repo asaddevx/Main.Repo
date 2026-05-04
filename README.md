@@ -18,6 +18,12 @@ Here you will find my earliest projects: simple calculators, basic apps, to-do l
 From here, my journey evolved into production-grade, secure, scalable, and intelligent systems.
 
 ---
+## 🚧 The Problems I Faced (And Solved) On My Journey
+
+This repository is not just code — it is a **timeline of struggles, failures, and breakthroughs**. Every project here solved a real problem I encountered as a beginner.
+
+
+---
 
 ### 📂 Foundational Projects in This Repository
 
