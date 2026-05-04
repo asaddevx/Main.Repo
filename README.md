@@ -49,6 +49,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 
 ### 🤖 First AI Fear (AI PDF Reader)
 - **Problem:** AI felt like rocket science. I didn't know where to start
+- **What I Built:** **AI Tool (PDF Reader)** — My first AI-powered project. It reads PDFs and answers questions using basic NLP.
 
 ---
 
