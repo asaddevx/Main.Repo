@@ -67,6 +67,10 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 | **Fear of new tech** | I tried Flutter, RN, MERN, Python, C#, PHP — and realized I *can* learn anything. |
 | **No documentation habit** | Writing these READMEs taught me to document my work professionally. |
 | **Imposter syndrome** | Seeing my own growth from simple calculators to AI tools kills the doubt. |
+| **No backup of old work** | Main.Repo is my time capsule. I never lose my early experiments. |
+
+---
+
 ---
 
 ### 📂 Foundational Projects in This Repository
