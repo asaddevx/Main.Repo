@@ -25,6 +25,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 ### 🎓 As a Student (CGPA & BMI Calculators)
 - **Problem:** I had no clear way to track my academic progress or forecast my final CGPA. Manual calculations were error-prone and stressful.
 - **What I Built:** **BS CGPA Calculator** — A Flutter app that lets students simulate semester grades and see their projected CGPA instantly.
+- **Lesson Learned:** Mobile apps can reduce anxiety by turning complex math into simple taps.
 
 ---
 
