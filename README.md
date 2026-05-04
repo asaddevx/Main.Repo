@@ -35,6 +35,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 ### 🌐 The "API Mystery" (Weather & News Apps)
 - **Problem:** I didn't understand how apps got live data. APIs felt like magic.
 - **What I Built:** **Weather App (React Native)** & **News App (Flutter)** — My first REST API integrations. I learned about JSON parsing, async/await, and API keys.
+- **Lesson Learned:** The internet is full of free data — you just need to ask for it correctly.
 
 ---
 
