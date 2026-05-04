@@ -55,6 +55,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 ### 🎨 The "Empty Screen" Problem (All Projects)
 - **Problem:** My early apps worked but looked ugly. Users complained.
 - **What I Fixed:** Over time, I learned Material Design, Cupertino widgets, and Tailwind CSS. Every project here shows improving UI/UX.
+- **Lesson Learned:** Functionality keeps users for a day. Design keeps them forever.
 
 ---
 
