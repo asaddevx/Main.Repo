@@ -27,6 +27,9 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 - **What I Built:** **BS CGPA Calculator** — A Flutter app that lets students simulate semester grades and see their projected CGPA instantly.
 - **Lesson Learned:** Mobile apps can reduce anxiety by turning complex math into simple taps.
 
+### 📱 My First "Real" App (Task Manager & To-Do Apps)
+- **Problem:** I kept forgetting assignments and deadlines. Paper lists and notes apps felt chaotic.
+
 ---
 
 ### 📂 Foundational Projects in This Repository
