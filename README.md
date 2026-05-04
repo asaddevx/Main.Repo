@@ -44,6 +44,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 
 ### 🖥️ Desktop vs. Web Confusion (Inventory Management System)
 - **Problem:** I built a C# desktop app for inventory, but the client wanted web access. I had to learn PHP overnight.
+- **What I Built:** **Inventory Management System** — C# for desktop + PHP for web. My first multi-platform lesson.
 
 ---
 
