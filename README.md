@@ -37,6 +37,9 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 - **What I Built:** **Weather App (React Native)** & **News App (Flutter)** — My first REST API integrations. I learned about JSON parsing, async/await, and API keys.
 - **Lesson Learned:** The internet is full of free data — you just need to ask for it correctly.
 
+### 💰 Financial Confusion (Smart Budget Analyzer)
+- **Problem:** My expenses were scattered across bank apps, cash, and memory. I had no budget.
+
 ---
 
 ### 📂 Foundational Projects in This Repository
