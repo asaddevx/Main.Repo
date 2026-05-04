@@ -70,7 +70,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 | **No backup of old work** | Main.Repo is my time capsule. I never lose my early experiments. |
 
 ---
-
+**This repository is not perfect. But it is honest. It shows where I struggled — and that I kept going.**
 ---
 
 ### 📂 Foundational Projects in This Repository
