@@ -22,6 +22,8 @@ From here, my journey evolved into production-grade, secure, scalable, and intel
 
 This repository is not just code — it is a **timeline of struggles, failures, and breakthroughs**. Every project here solved a real problem I encountered as a beginner.
 
+### 🎓 As a Student (CGPA & BMI Calculators)
+- **Problem:** I had no clear way to track my academic progress or forecast my final CGPA. Manual calculations were error-prone and stressful.
 
 ---
 
