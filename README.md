@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active_Archive-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/From-Beginner_to_Architect-FF6B6B?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Projects-13+-blue?style=for-the-badge" />
+  
 **The Origin • The First Commit • The Beginning of My Journey**
 
 This repository is where it all started.
