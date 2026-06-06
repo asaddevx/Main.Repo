@@ -167,8 +167,8 @@ This repository represents **Day 1** of my mission.
   <p align="center">
     <img src="https://img.shields.io/badge/Built_With-Passion-FF6B6B?style=flat-square" />
     <img src="https://img.shields.io/badge/Built_With-Purpose-4ECDC4?style=flat-square" />
-    
-  
+    <img src="https://img.shields.io/badge/Status-From_Zero_to_Architect-00C853?style=flat-square" />
+  </p>
 </p>
 
 ---
