@@ -177,6 +177,11 @@ This repository represents **Day 1** of my mission.
 **Made with passion & purpose**  
 **Asadullah** — *Multi-Software Architect in the making*
 
+---
+
+### 💡 Fun Fact
+
+> *"Every expert was once a beginner. This repository is proof that the first step is the hardest — but also the most important."*
 
 ---
 
