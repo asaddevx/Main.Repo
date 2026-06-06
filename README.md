@@ -208,9 +208,6 @@ This repository represents **Day 1** of my mission.
   </a>
 </div>
 
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
 </p>
@@ -220,4 +217,5 @@ This repository represents **Day 1** of my mission.
 
 This repository is a living archive of my learning journey. If you're a beginner yourself, feel free to:
 
+- ⭐ **Star** this repo to bookmark your own starting point
 
