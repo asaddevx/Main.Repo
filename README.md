@@ -183,6 +183,9 @@ This repository represents **Day 1** of my mission.
 
 > *"Every expert was once a beginner. This repository is proof that the first step is the hardest — but also the most important."*
 
+**Lines of code written since Day 1:** *Countless*  
+**Lessons learned:** *Priceless* 
+
 ---
 
 ### 📬 Connect With Me
