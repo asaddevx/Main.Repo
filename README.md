@@ -219,3 +219,9 @@ This repository is a living archive of my learning journey. If you're a beginner
 
 - ⭐ **Star** this repo to bookmark your own starting point
 - 🍴 **Fork** it and add your own foundational projects
+- 📝 **Open an Issue** if you have questions or suggestions
+
+*Let's grow together.*
+
+---
+
