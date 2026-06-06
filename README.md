@@ -218,4 +218,4 @@ This repository represents **Day 1** of my mission.
 This repository is a living archive of my learning journey. If you're a beginner yourself, feel free to:
 
 - ⭐ **Star** this repo to bookmark your own starting point
-
+- 🍴 **Fork** it and add your own foundational projects
