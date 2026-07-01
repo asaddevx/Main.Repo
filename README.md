@@ -14,7 +14,7 @@ It is not just a collection of code — it is the **living archive** of my very 
 
 ---
 
-### 🧬 About This Repo
+### 🧬 About This Repo:
 
 This is my **starting point** — the place where I began experimenting, learning, and building from scratch.  
 
@@ -24,7 +24,7 @@ Here you will find my earliest projects: simple calculators, basic apps, to-do l
 From here, my journey evolved into production-grade, secure, scalable, and intelligent systems.
 
 ---
-## 🚧 The Problems I Faced (And Solved) On My Journey
+## 🚧 The Problems I Faced (And Solved) On My Journey:
 
 This repository is not just code — it is a **timeline of struggles, failures, and breakthroughs**. Every project here solved a real problem I encountered as a beginner.
 
