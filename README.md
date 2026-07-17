@@ -14,7 +14,7 @@ It is not just a collection of code — it is the **living archive** of my very 
 
 ---
 
-### 🧬 About This Repo:
+### 🧬 About This Repo
 
 This is my **starting point** — the place where I began experimenting, learning, and building from scratch.  
 
@@ -79,7 +79,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 **This repository is not perfect. But it is honest. It shows where I struggled — and that I kept going.**
 ---
 
-### 📂 Foundational Projects in This Repository:
+### 📂 Foundational Projects in This Repository
 
 These are the projects that mark the beginning of my path:
 
@@ -101,7 +101,7 @@ These are the projects that mark the beginning of my path:
 
 ---
 
-### 🎯 My Bigger Journey:
+### 🎯 My Bigger Journey
 
 While **Main.Repo** holds my beginning, my advanced and production-level work lives in dedicated repositories:
 
@@ -111,7 +111,7 @@ While **Main.Repo** holds my beginning, my advanced and production-level work li
 
 ---
 
-### 🌟 Vision & Goal:
+### 🌟 Vision & Goal
 
 **Main.Repo** represents **Day 1** of my mission.
 
@@ -129,7 +129,7 @@ This repository is proof that every big journey starts with small, honest projec
 
 ---
 
-## ✨ Key Highlights
+## ✨ Key Highlights:
 - **The Origin of My Journey** — First commit and foundational projects that started everything
 - **Multi-Technology Exploration** — Early experiments across Flutter, React Native, MERN, Python, Flask, C#, and PHP
 - **From Basics to Production** — Evolution from simple calculators and to-do apps to full-stack and AI-powered systems
