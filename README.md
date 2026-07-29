@@ -79,7 +79,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 **This repository is not perfect. But it is honest. It shows where I struggled — and that I kept going.**
 ---
 
-### 📂 Foundational Projects in This Repository
+### 📂 Foundational Projects in This Repository:
 
 These are the projects that mark the beginning of my path:
 
