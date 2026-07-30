@@ -101,7 +101,7 @@ These are the projects that mark the beginning of my path:
 
 ---
 
-### 🎯 My Bigger Journey
+### 🎯 My Bigger Journey:
 
 While **Main.Repo** holds my beginning, my advanced and production-level work lives in dedicated repositories:
 
