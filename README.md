@@ -111,7 +111,7 @@ While **Main.Repo** holds my beginning, my advanced and production-level work li
 
 ---
 
-### 🌟 Vision & Goal
+### 🌟 Vision & Goal:
 
 **Main.Repo** represents **Day 1** of my mission.
 
