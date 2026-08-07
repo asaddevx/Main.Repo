@@ -189,7 +189,7 @@ This repository represents **Day 1** of my mission.
 
 ---
 
-### 📬 Connect With Me
+### 📬 Connect With Me:
 
 <div align="center">
   <p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
