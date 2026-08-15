@@ -179,7 +179,7 @@ This repository represents **Day 1** of my mission.
 
 ---
 
-### 💡 Fun Fact
+### 💡 Fun Fact:
 
 > *"Every expert was once a beginner. This repository is proof that the first step is the hardest — but also the most important."*
 
