@@ -79,9 +79,9 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 **This repository is not perfect. But it is honest. It shows where I struggled — and that I kept going.**
 ---
 
-### 📂 Foundational Projects in This Repository:
+### 📂 Foundational Projects in This Repository
 
-These are the projects that mark the beginning of my path:
+These are the projects that mark the beginning of my path
 
 - **BS CGPA Calculator** – Flutter app
 - **BMI Calculator** – Flutter app
@@ -179,7 +179,7 @@ This repository represents **Day 1** of my mission.
 
 ---
 
-### 💡 Fun Fact:
+### 💡 Fun Fact
 
 > *"Every expert was once a beginner. This repository is proof that the first step is the hardest — but also the most important."*
 
@@ -213,7 +213,7 @@ This repository represents **Day 1** of my mission.
 </p>
 
 
-### 🤝 Want to Contribute?
+### 🤝 Want to Contribute?:
 
 This repository is a living archive of my learning journey. If you're a beginner yourself, feel free to:
 
