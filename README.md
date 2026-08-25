@@ -1,4 +1,4 @@
-# 🚀 Main.Repo:
+# 🚀 Main.Repo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active_Archive-brightgreen?style=for-the-badge" />
@@ -14,7 +14,7 @@ It is not just a collection of code — it is the **living archive** of my very 
 
 ---
 
-### 🧬 About This Repo:
+### 🧬 About This Repo
 
 This is my **starting point** — the place where I began experimenting, learning, and building from scratch.  
 
@@ -79,7 +79,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 **This repository is not perfect. But it is honest. It shows where I struggled — and that I kept going.**
 ---
 
-### 📂 Foundational Projects in This Repository
+### 📂 Foundational Projects in This Repository:
 
 These are the projects that mark the beginning of my path
 
