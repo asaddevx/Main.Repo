@@ -65,7 +65,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 
 ---
 
-### 💡 The Unseen Problems (That These Projects Solved For **Me**)
+### 💡 The Unseen Problems (That These Projects Solved For **Me**):
 
 | Problem I Had as a Developer | How This Repository Solved It |
 |:----------------------------|:------------------------------|
