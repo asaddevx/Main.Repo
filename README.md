@@ -1,4 +1,4 @@
-# 🚀 Main.Repo:
+# 🚀 Main.Repo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active_Archive-brightgreen?style=for-the-badge" />
@@ -24,7 +24,7 @@ Here you will find my earliest projects: simple calculators, basic apps, to-do l
 From here, my journey evolved into production-grade, secure, scalable, and intelligent systems.
 
 ---
-## 🚧 The Problems I Faced (And Solved) On My Journey:
+## 🚧 The Problems I Faced (And Solved) On My Journey
 
 This repository is not just code — it is a **timeline of struggles, failures, and breakthroughs**. Every project here solved a real problem I encountered as a beginner.
 
@@ -79,7 +79,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 **This repository is not perfect. But it is honest. It shows where I struggled — and that I kept going.**
 ---
 
-### 📂 Foundational Projects in This Repository:
+### 📂 Foundational Projects in This Repository
 
 These are the projects that mark the beginning of my path
 
@@ -111,7 +111,7 @@ While **Main.Repo** holds my beginning, my advanced and production-level work li
 
 ---
 
-### 🌟 Vision & Goal:
+### 🌟 Vision & Goal
 
 **Main.Repo** represents **Day 1** of my mission.
 
@@ -179,7 +179,7 @@ This repository represents **Day 1** of my mission.
 
 ---
 
-### 💡 Fun Fact
+### 💡 Fun Fact:
 
 > *"Every expert was once a beginner. This repository is proof that the first step is the hardest — but also the most important."*
 
