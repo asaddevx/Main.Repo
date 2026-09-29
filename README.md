@@ -1,4 +1,4 @@
-# 🚀 Main.Repo:
+# 🚀 Main.Repo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active_Archive-brightgreen?style=for-the-badge" />
@@ -65,7 +65,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 
 ---
 
-### 💡 The Unseen Problems (That These Projects Solved For **Me**):
+### 💡 The Unseen Problems (That These Projects Solved For **Me**)
 
 | Problem I Had as a Developer | How This Repository Solved It |
 |:----------------------------|:------------------------------|
@@ -101,7 +101,7 @@ These are the projects that mark the beginning of my path
 
 ---
 
-### 🎯 My Bigger Journey:
+### 🎯 My Bigger Journey
 
 While **Main.Repo** holds my beginning, my advanced and production-level work lives in dedicated repositories:
 
@@ -111,7 +111,7 @@ While **Main.Repo** holds my beginning, my advanced and production-level work li
 
 ---
 
-### 🌟 Vision & Goal
+### 🌟 Vision & Goal:
 
 **Main.Repo** represents **Day 1** of my mission.
 
