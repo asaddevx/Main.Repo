@@ -1,4 +1,4 @@
-# 🚀 Main.Repo:
+# 🚀 Main.Repo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active_Archive-brightgreen?style=for-the-badge" />
@@ -14,7 +14,7 @@ It is not just a collection of code — it is the **living archive** of my very 
 
 ---
 
-### 🧬 About This Repo:
+### 🧬 About This Repo
 
 This is my **starting point** — the place where I began experimenting, learning, and building from scratch.  
 
@@ -79,7 +79,7 @@ This repository is not just code — it is a **timeline of struggles, failures, 
 **This repository is not perfect. But it is honest. It shows where I struggled — and that I kept going.**
 ---
 
-### 📂 Foundational Projects in This Repository:
+### 📂 Foundational Projects in This Repository
 
 These are the projects that mark the beginning of my path
 
@@ -101,7 +101,7 @@ These are the projects that mark the beginning of my path
 
 ---
 
-### 🎯 My Bigger Journey:
+### 🎯 My Bigger Journey
 
 While **Main.Repo** holds my beginning, my advanced and production-level work lives in dedicated repositories:
 
@@ -111,7 +111,7 @@ While **Main.Repo** holds my beginning, my advanced and production-level work li
 
 ---
 
-### 🌟 Vision & Goal:
+### 🌟 Vision & Goal
 
 **Main.Repo** represents **Day 1** of my mission.
 
@@ -213,7 +213,7 @@ This repository represents **Day 1** of my mission.
 </p>
 
 
-### 🤝 Want to Contribute?:
+### 🤝 Want to Contribute?
 
 This repository is a living archive of my learning journey. If you're a beginner yourself, feel free to:
 
