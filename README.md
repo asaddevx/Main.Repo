@@ -146,7 +146,7 @@ This repository represents **Day 1** of my mission.
 
 ---
 
-## 📊 Repository Analytics:
+## 📊 Repository Analytics
 <p align="center">
   <!-- Repository Stats Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=Main.Repo&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Main.Repo Stats" />
@@ -179,7 +179,7 @@ This repository represents **Day 1** of my mission.
 
 ---
 
-### 💡 Fun Fact:
+### 💡 Fun Fact
 
 > *"Every expert was once a beginner. This repository is proof that the first step is the hardest — but also the most important."*
 
@@ -189,7 +189,7 @@ This repository represents **Day 1** of my mission.
 
 ---
 
-### 📬 Connect With Me:
+### 📬 Connect With Me
 
 <div align="center">
   <p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
@@ -213,7 +213,7 @@ This repository represents **Day 1** of my mission.
 </p>
 
 
-### 🤝 Want to Contribute?
+### 🤝 Want to Contribute?:
 
 This repository is a living archive of my learning journey. If you're a beginner yourself, feel free to:
 
