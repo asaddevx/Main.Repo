@@ -1,4 +1,4 @@
-# 🚀 Main.Repo:
+# 🚀 Main.Repo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active_Archive-brightgreen?style=for-the-badge" />
@@ -14,7 +14,7 @@ It is not just a collection of code — it is the **living archive** of my very 
 
 ---
 
-### 🧬 About This Repo:
+### 🧬 About This Repo
 
 This is my **starting point** — the place where I began experimenting, learning, and building from scratch.  
 
@@ -101,7 +101,7 @@ These are the projects that mark the beginning of my path
 
 ---
 
-### 🎯 My Bigger Journey:
+### 🎯 My Bigger Journey
 
 While **Main.Repo** holds my beginning, my advanced and production-level work lives in dedicated repositories:
 
@@ -129,7 +129,7 @@ This repository is proof that every big journey starts with small, honest projec
 
 ---
 
-## ✨ Key Highlights:
+## ✨ Key Highlights
 - **The Origin of My Journey** — First commit and foundational projects that started everything
 - **Multi-Technology Exploration** — Early experiments across Flutter, React Native, MERN, Python, Flask, C#, and PHP
 - **From Basics to Production** — Evolution from simple calculators and to-do apps to full-stack and AI-powered systems
@@ -146,7 +146,7 @@ This repository represents **Day 1** of my mission.
 
 ---
 
-## 📊 Repository Analytics
+## 📊 Repository Analytics:
 <p align="center">
   <!-- Repository Stats Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=Main.Repo&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Main.Repo Stats" />
